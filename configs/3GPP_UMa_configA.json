@@ -1,0 +1,83 @@
+{
+	"AntennaScheme": "32x4 MU-MIMO, Reciprocity based, 4T SRS",
+	"BS": {
+		"AntennaConfig": [
+			4,
+			8,
+			2,
+			1,
+			1,
+			1,
+			1
+		],
+		"ElectricalTilt": [
+			157.5,
+			112.5
+		],
+		"Escan": [
+			-56.25,
+			-33.75,
+			-11.25,
+			11.25,
+			33.75,
+			56.25
+		],
+		"GainDb": 8,
+		"HBeamWidth": 65,
+		"Omni": false,
+		"SLAV": 30,
+		"VBeamWidth": 65,
+		"EspacingHfactor": 0.5,
+		"EspacingVfactor": 0.8,
+		"MechanicalTilt": 90,
+		"Polarization": [
+			45,
+			-45
+		],
+		"PanelAz": [
+			0
+		],
+		"PanelEl": [
+			90
+		]
+	},
+	"CONFIG": "A",
+	"ChannelModel": "A",
+	"ENV": "UMa",
+	"FcGHz": 4,
+	"FrameStructure": "DDDSU",
+	"LAYOUTTYPE": 0,
+	"MobilityClass": 0,
+	"NumTRxP": 57,
+	"ReliabiltyAntennaScheme": "",
+	"SCENARIO": "eMBB",
+	"SCSKHz": 30,
+	"UE": {
+		"AntennaConfig": [
+			1,
+			2,
+			2,
+			1,
+			1,
+			1,
+			2
+		],
+		"ElectricalTilt": null,
+		"Escan": null,
+		"GainDb": 0,
+		"HBeamWidth": 90,
+		"Omni": true,
+		"SLAV": 25,
+		"VBeamWidth": 90,
+		"EspacingHfactor": 0.5,
+		"EspacingVfactor": 0,
+		"MechanicalTilt": 90,
+		"Polarization": [
+			0,
+			90
+		],
+		"PanelAz": null,
+		"PanelEl": null
+	},
+	"Vtilt": 0
+}

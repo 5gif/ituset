@@ -1,0 +1,30 @@
+{
+    "SCENARIO": "3GPP_InH_configB",
+    "SimulationTime": 1,
+    "FrameType": 0,
+    "SlotType": 0,
+    "NumUEperSlot": 4,
+    "NumInterference":3,
+    "fname": "SIM_InH_configB",
+    "ActiveBSCells": 12,
+    "ActiveUECells": 12,
+    "Extended": false,
+    "ForceAllLOS": false,
+    "ShadowLoss": true,
+    "LogInfo": false,
+    "UEcells": [
+        0,
+        1,
+        2
+    ],
+    "BScells": [
+        0,
+        1,2
+
+    ],
+    "TrueCells": 0,
+    "SchedulerType": 1,
+    "IsDownLink": true,
+    "AntennaVTilt": 0,
+    "WrapAround": false
+}

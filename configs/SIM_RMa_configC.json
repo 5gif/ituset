@@ -1,0 +1,30 @@
+{
+    "SCENARIO": "SIM_RMa_configC",
+    "SimulationTime": 1,
+    "FrameType": 0,
+    "SlotType": 0,
+    "NumUEperSlot": 4,
+    "NumInterference":3,
+    "fname": "SIM_RMa_configC",
+    "ActiveBSCells": 128,
+    "ActiveUECells": 19,
+    "Extended": true,
+    "ForceAllLOS": false,
+    "ShadowLoss": true,
+    "LogInfo": false,
+    "UEcells": [
+        0,
+        1,
+        2
+    ],
+    "BScells": [
+        0,
+        1,
+        2
+    ],
+    "TrueCells": -1,
+    "SchedulerType": 1,
+    "IsDownLink": true,
+    "AntennaVTilt": 7.4,
+    "WrapAround": true
+}

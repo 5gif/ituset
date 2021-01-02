@@ -1,0 +1,30 @@
+{
+    "SCENARIO": "SIM_UMa_mMTC__configA",
+    "SimulationTime": 1,
+    "FrameType": 0,
+    "SlotType": 0,
+    "UEperSlot" : 4,
+    "NumInterference":3,
+    "fname": "SIM_UMa_mMTC_configA",
+    "ActiveBSCells": 128,
+    "ActiveUECells": 19,
+    "Extended": false,
+    "ForceAllLOS": false,
+    "ShadowLoss": true,
+    "LogInfo": false,
+    "UEcells": [
+        0,
+        1,
+        2
+    ],
+    "BScells": [
+        0,
+        1,
+        2
+    ],
+    "TrueCells": 0,
+    "SchedulerType": 1,
+    "IsDownLink": true,
+    "AntennaVTilt": 6.3,
+    "WrapAround": true
+}
