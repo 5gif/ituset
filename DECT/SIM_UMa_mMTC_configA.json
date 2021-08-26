@@ -6,7 +6,7 @@
     "UEperSlot": 4,
     "NumInterference": 3,
     "fname": "SIM_UMa_mMTC_configA",
-    "ActiveBSCells": 128,
+    "ActiveBSCells": 61,
     "ActiveUECells": 19,
     "Extended": false,
     "ForceAllLOS": false,
